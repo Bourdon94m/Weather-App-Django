@@ -5,7 +5,7 @@ import requests
 
 
 def index(request):
-    personal = "715fb00ac17f68b9dc097078e1299f7c"
+    personal = "API KEY HERE"
     city = None
 
     if request.method == "POST":
