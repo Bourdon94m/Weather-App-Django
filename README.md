@@ -8,7 +8,7 @@ Welcome to the WeatherInfo App! This simple Django-based web application provide
 
 - **Temperature Display:** Receive real-time temperature updates for the specified location.
 
-## Technologies Used
+## Technologies Used :
 
 - **Backend:** Django (Python)
 - **Frontend:** HTML, CSS
